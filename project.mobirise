@@ -282,48 +282,52 @@
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/braderie-chic-1-2000x2667.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/braderie-chic-1-2000x2667-800x1067.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vitabike-5-1530x2040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vitabike-5-1530x2040-800x1067.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Impressionnant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/salon-massage-652x350.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/salon-massage-652x350-652x350.jpg",
+                "image": "@PROJECT_PATH@/assets/images/braderie-chic-2-2000x2395.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/braderie-chic-2-2000x2395-800x958.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": false
+                "active": true,
+                "title": ""
               },
               {
                 "tags": "Impressionnant",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/massage-famille-nol-2017-8-2000x2667.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/massage-famille-nol-2017-8-2000x2667-800x1067.jpg",
+                "image": "@PROJECT_PATH@/assets/images/vitabike-2-1530x2040.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/vitabike-2-1530x2040-800x1067.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": false
+                "active": false,
+                "title": ""
               },
               {
                 "tags": "Animé",
                 "videoPreview": "@THEME_PATH@/components/_images/gallery/preview.jpg",
                 "playVideo": false,
                 "videoUrl": "https://www.youtube.com/watch?v=fwkKc6M60-0",
-                "image": "@PROJECT_PATH@/assets/images/jardin-640x480.jpg",
-                "thumb": "@PROJECT_PATH@/assets/images/jardin-640x480-640x480.jpg",
+                "image": "@PROJECT_PATH@/assets/images/miroir-deau-2-720x960.jpg",
+                "thumb": "@PROJECT_PATH@/assets/images/miroir-deau-2-720x960-720x960.jpg",
                 "alt": "",
                 "customStyle1": "display-7",
                 "caption": "Tapez la légende ici",
-                "active": true
+                "active": false,
+                "title": ""
               }
             ]
           }
